@@ -1,0 +1,28 @@
+{
+  "name": "post-maker",
+  "version": "1.0.0",
+  "description": "The thing that fetches, parses and convert posts to nice view from different resources.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "request-promise": "^0.4.2",
+    "when": "^3.7.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SendCroissant/post-maker.git"
+  },
+  "author": "SendCroissant",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SendCroissant/post-maker/issues"
+  },
+  "homepage": "https://github.com/SendCroissant/post-maker"
+}
